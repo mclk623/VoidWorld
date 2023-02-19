@@ -42,5 +42,5 @@ jobs:
       uses: MuirProject/upload-artifact@v2-beta
       with:
           name: 'upload'
-          path: '/*'
+          path: './*'
           retention-days: 30
