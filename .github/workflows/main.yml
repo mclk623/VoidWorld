@@ -30,7 +30,7 @@ jobs:
       with:
         distribution: 'adopt'
         java-package: jdk
-        java-version: '17'
+        java-version: '8'
 
 
 
